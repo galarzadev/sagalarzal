@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sagalarzal
-- 👀 I’m interested in web developing and games
-- 🌱 I’m currently learning web developing and games in Platzi
-- 💞️ I’m looking to collaborate on games
-- 📫 To reach me visit sergiogalarza.com or email contact@sergiogalarza.com
+- 👋 Hi, I’m Sergio
+- 👀 I’m interested in web development and games
+- 🌱 I’m currently learning web development, .Net and games in Platzi, Colombian MinTIC and by myself.
+- 📫 Find me in sergiogalarza.com and social networks by @sagalarzal
 
 I will be uploading Notes from mi studies as repos, and my actual repos will be pinned. :3
 
+Have a nice day.
